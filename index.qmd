@@ -183,6 +183,7 @@ timeline for restructure: mid-November
 * keep napari plugins with core code (optional install)
 * move CLI to workflows? Example workflows elsewhere (tutorial notebooks)?
 
+![future repo architecture?](img/top-level-future-architecture.svg)
 
 ## Low-level architecture (napari widgets)
 
